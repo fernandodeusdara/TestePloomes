@@ -1,0 +1,15 @@
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\bin\Debug\net6.0\TestePloomes.Domain.deps.json
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\bin\Debug\net6.0\TestePloomes.Domain.dll
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\bin\Debug\net6.0\TestePloomes.Domain.pdb
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\bin\Debug\net6.0\TestePloomes.Data.dll
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\bin\Debug\net6.0\TestePloomes.Data.pdb
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.AssemblyInfo.cs
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.csproj.CopyComplete
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.dll
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\refint\TestePloomes.Domain.dll
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\TestePloomes.Domain.pdb
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Domain\obj\Debug\net6.0\ref\TestePloomes.Domain.dll

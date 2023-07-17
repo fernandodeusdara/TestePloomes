@@ -1,0 +1,12 @@
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\bin\Debug\net6.0\TestePloomes.Data.deps.json
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\bin\Debug\net6.0\TestePloomes.Data.dll
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\bin\Debug\net6.0\TestePloomes.Data.pdb
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\TestePloomes.Data.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\TestePloomes.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\TestePloomes.Data.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\TestePloomes.Data.AssemblyInfo.cs
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\TestePloomes.Data.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\TestePloomes.Data.dll
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\refint\TestePloomes.Data.dll
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\TestePloomes.Data.pdb
+C:\Users\ferna\source\repos\TestePloomes10\TestePloomes.Data\obj\Debug\net6.0\ref\TestePloomes.Data.dll
